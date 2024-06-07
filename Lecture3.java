@@ -11,6 +11,9 @@ public class Lecture3 {
         byte b2 = (byte)129;
         System.out.println("B2 is: "+b2);
 
+        byte b3 = (byte)128;
+        System.out.println("B3 is: "+b3);
+        
         int i = b;
         System.out.println("I is: "+i);
     }
